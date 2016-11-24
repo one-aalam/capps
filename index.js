@@ -17,4 +17,4 @@ process.stdin.on('keypress', (str, key) => {
     }
 });
 
-console.log('Press any key...');
+console.log('Press a key to retrieve a stock price...');
